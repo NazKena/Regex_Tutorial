@@ -6,7 +6,7 @@
 
 ## Summary
 
-Regex is short for 'Regular Expressions' and it is a sequence of special characters that define a search pattern. In this tutorial, we will be looking at this search pattern: /^#?([a-f0-9]{6}|[a-f0-9]{3})$/
+Regex is short for 'Regular Expressions' and it is a sequence of special characters that define a search pattern. In this tutorial, we will be looking at this search pattern: `/^#?([a-f0-9]{6}|[a-f0-9]{3})$/`
 
 ### Table of Contents 
 
