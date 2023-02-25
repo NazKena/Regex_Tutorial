@@ -1,25 +1,45 @@
-## How to Use Regex
+# How to Use Regex
 
-##
+## Purpose 
+
+
+
+## Summary
+
+Regex is short for 'Regular Expressions' and it is a sequence of special characters that define a search pattern. In this tutorial, we will be lookign at this search patterm 
 
 ### Table of Contents 
 
-- [Purpose ](#purpose)
+- [Anchor](#anchor) 
 
-- [Summary](#summary)
+- [Quantifier ](#quantifiers)
 
-- [Components](#components)
+- [Bracket expressions](#bracket-expressions)
 
-- [Author](#author)
+- [Grouping Constructs](#grouping-constructs)
 
-- [GitHub](#github)
+- [The OR Operator](#the-or-operator)
 
-## Purpose
+- [Character Escapes](#character-escapes)
 
-## Summary 
+- [Character Classes](#character-classes)
 
-## Components 
+- [Flags](#flags)
 
-## Author 
+### Anchor
 
-## GitHub
+### Quantifiers
+
+### Bracket Expressions  
+
+### Grouping Constructs 
+
+### The OR Operator 
+
+### Character Escapes
+
+### Character Classes
+
+### Flags
+
+# Author
